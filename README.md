@@ -1,5 +1,5 @@
 # Driver-BMP180
-**Linux Kernel Driver for BMP180 Pressure Sensor on Raspberry Pi 4B**
+**Linux Kernel Driver for BMP180 Pressure Sensor on Raspberry Pi 3B+**
 ### Nhóm thực hiện
 - **Huỳnh Võ Phúc Lộc** – 22146344  
 - **Nguyễn Thiện Nhân** – 22146364  
@@ -68,7 +68,7 @@ The Bosch **BMP180** is a digital barometric pressure and temperature sensor, co
 
 ## Hardware & Software Setup
 
-### 🔌 3.1 Wiring BMP180 to Raspberry Pi
+### 3.1 Wiring BMP180 to Raspberry Pi
 
 | BMP180 Pin | RPi 4 Pin (GPIO)     | Description     |
 |------------|----------------------|-----------------|
@@ -207,7 +207,7 @@ sudo insmod bmp180_driver.ko
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 - **Huỳnh Võ Phúc Lộc**
 - GitHub: [Dong-quan](https://github.com/Dong-quan)
