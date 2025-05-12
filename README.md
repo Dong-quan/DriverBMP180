@@ -1,4 +1,4 @@
-# Driver-BMP180
+# Driver for BMP180
 **Linux Kernel Driver for BMP180 Pressure Sensor on Raspberry Pi 3B+**
 ### Nhóm thực hiện
 - **Huỳnh Võ Phúc Lộc** – 22146344  
