@@ -163,8 +163,10 @@ sudo ./bmp180_test
 **Expected Output**:
 
 ```
-Temperature: 37.9 °C
-Pressure: 118267.00 Pa
+Temperature: 33.6 °C
+Temperature level: Hot
+Pressure: 1004–1010 hPa (At Thu Duc City, Ho Chi Minh City)
+Altitude: 10–25 m (with some areas reaching up to 30 m)
 ```
 
 ---
@@ -184,8 +186,10 @@ lsmod | grep bmp
 If you see:
 
 ```
-bmp280_i2c 16384 0
-bmp280     28672 1 bmp280_i2c
+bmp280_i2c             16384  0
+bmp280                 28672  1 bmp280_i2c
+industrialio           90112  1 bmp280
+regmap_i2c             16384  1 bmp280_i2c
 ```
 
 2. Remove conflicting modules:
