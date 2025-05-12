@@ -105,7 +105,7 @@ Clone or download the following files from the repository:
 - `Makefile`
 - `test.c`
 
-GitHub: [Dong-quan/Driver-BMP180](https://github.com/Dong-quan/Driver-BMP180)
+GitHub: [Dong-quan/Driver-BMP180](https://github.com/Dong-quan/DriverBMP180)
 
 ---
 
