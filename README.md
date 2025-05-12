@@ -163,7 +163,7 @@ sudo ./bmp180_test
 **Expected Output**:
 
 ```
-Temperature: 33.6 °C
+Temperature: 33.6 °C (10🕥 AM, 12/5/2025, At Thu Duc City, Ho Chi Minh City)
 Temperature level: Hot
 Pressure: 1004–1010 hPa (At Thu Duc City, Ho Chi Minh City)
 Altitude: 10–25 m (with some areas reaching up to 30 m)
