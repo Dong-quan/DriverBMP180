@@ -1,14 +1,8 @@
 # Driver for BMP180
 ![BMP180 Sensor](https://vn.szks-kuongshun.com/uploads/201810680/small/bmp180-digital-barometric-pressure-sensor-module14122058243.jpg)
-![RASPBERRY_PI_3B+](https://shop.max2play.com/media/catalog/product/cache/90545561e815ada799eff7681525ced9/t/o/top_01.jpg)
+![RASPBERRY_PI_3B+](https://images-na.ssl-images-amazon.com/images/I/71nhCFbdy0L.jpg)
 
 **Linux Kernel Driver for BMP180 Pressure Sensor on Raspberry Pi 3B+**
-### Nhóm thực hiện
-- **Huỳnh Võ Phúc Lộc** – 22146344  
-- **Nguyễn Thiện Nhân** – 22146364  
-- **Nguyễn Ngọc Hoàng** – 22146309  
-- **Nguyễn Bùi Thảo Nguyên** – 22146360  
-
 ---
 
 ## Table of Contents
@@ -212,5 +206,5 @@ sudo insmod bmp180_driver.ko
 
 ## Author
 
-- **Huỳnh Võ Phúc Lộc**
+- **Huynh Vo Phuc Loc**
 - GitHub: [Dong-quan](https://github.com/Dong-quan)
